@@ -29,7 +29,7 @@ If I were given more time to spend with the dataset, I would spen some time with
 ### Create a table with the models you ran, the hyperparameters modified, and the kaggle score.
 |model|time_limit|presets|model specific|score|
 |--|--|--|--|--|
-|initial||600|best_quality|1.79566|
+|initial|600|best_quality|1.79566|
 |add_features|600|best_quality|None|0.46986|
 |hpo|600|best_quality|num_boost_round (for lightGBM gradient boosted trees)|0.48397|
 
