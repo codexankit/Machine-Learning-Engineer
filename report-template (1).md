@@ -35,7 +35,7 @@ If I were given more time to spend with the dataset, I would spen some time with
 
 ### Create a line plot showing the top model score for the three (or more) training runs during the project.
 
-![model_train_score (1).png](model_train_score (1).png)
+![model_train_score (1).png]
 
 ### Create a line plot showing the top kaggle score for the three (or more) prediction submissions during the project.
 
